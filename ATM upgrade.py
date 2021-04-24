@@ -1,15 +1,3 @@
-#register
-# - first name, last name, password, email
-# - generaten user account
-
-
-#login
-# - account number & password
-
-
-#bank operations
-
-#Initializing the system
 import random
 
 database = {} #dictionary
